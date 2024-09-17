@@ -1,0 +1,17 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #1e1e1e;
+  }
+  
+  * {
+    font-family: 'Noto Sans JP', 'Inter', sans-serif;
+    box-sizing: border-box;
+  }
+  
+  :lang(en) {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  :lang(ja) {
+    font-family: 'Noto Sans JP', 'Inter', sans-serif;
+  }

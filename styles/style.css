@@ -316,15 +316,18 @@
 
 @media (max-width: 375px) {
   .slide1 {
-    background: url('../images/web_ph_mv_01_sp.webp') no-repeat center center;
+    background: url('../images/web_ph_mv_01_sp.webp') no-repeat;
+    background-size: cover;
   }
 
   .slide2 {
     background: url('../images/web_ph_mv_02_sp.webp') no-repeat center center;
+    background-size: cover;
   }
 
   .slide3 {
     background: url('../images/web_ph_mv_03_sp.webp') no-repeat center center;
+    background-size: cover;
   }
 }
 
